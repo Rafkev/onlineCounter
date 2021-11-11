@@ -39,3 +39,4 @@ This is a simulated change for commit #280
 This is a simulated change for commit #303
 This is a simulated change for commit #305
 This is a simulated change for commit #314
+This is a simulated change for commit #320
