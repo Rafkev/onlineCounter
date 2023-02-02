@@ -37,3 +37,4 @@ This is a simulated change for commit #290
 This is a simulated change for commit #306
 This is a simulated change for commit #332
 This is a simulated change for commit #346
+This is a simulated change for commit #378
