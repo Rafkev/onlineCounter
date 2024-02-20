@@ -46,5 +46,5 @@ For support or inquiries, please contact Raphael (raphaelosanmi@gmail.com).
 
 ## License
 
-This plugin is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) License. hhhhhh
+This plugin is licensed under the [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html) License. 
 
