@@ -1,0 +1,19 @@
+/* Online Users Counter Custom CSS */
+.online-users-counter {
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.online-users-counter p {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.online-users-counter p span {
+    font-weight: bold;
+    color: #0073e6;
+}
